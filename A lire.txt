@@ -1,0 +1,3 @@
+nom de la base données =district.db
+login=admin
+mot de passe=admin
